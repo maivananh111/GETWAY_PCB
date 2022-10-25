@@ -1437,8 +1437,8 @@
     (path "/f0ee6af2-f550-4443-9b94-19a08ddfd29b/03fc7069-ff83-4455-ad52-666b874bf278"
       (reference "U1") (unit 1) (value "STM32F407VGTx") (footprint "Package_QFP:LQFP-100_14x14mm_P0.5mm")
     )
-    (path "/da1c9906-fabf-4b2a-a86e-11e3eef70a8b/0742b584-7557-436a-8a63-31c5d3c18ed7"
-      (reference "U2") (unit 1) (value "ESP32-WROOM-32") (footprint "RF_Module:ESP32-WROOM-32")
+    (path "/da1c9906-fabf-4b2a-a86e-11e3eef70a8b/d9ecf371-9ff0-40c7-b2b0-bbbe5948a203"
+      (reference "U2") (unit 1) (value "ESP32-WROOM-32D") (footprint "RF_Module:ESP32-WROOM-32")
     )
     (path "/de378ff5-7271-42c7-8a94-8aa3387230de/dafad82f-b9b6-4f8e-aa99-86c1fb314fc5"
       (reference "U3") (unit 1) (value "Ai-Thinker-Ra-02") (footprint "RF_Module:Ai-Thinker-Ra-01-LoRa")
