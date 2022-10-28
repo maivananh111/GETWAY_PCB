@@ -948,6 +948,18 @@
     (path "/5caef4ef-946f-4700-9836-5e0163c55272/58589c57-cab6-4025-ae71-3900f2ede8ee"
       (reference "C67") (unit 1) (value "10nF") (footprint "Capacitor_SMD:C_1206_3216Metric")
     )
+    (path "/01ad9bd5-0b4c-49f6-a521-39cde0d4096d/b70fdb5e-f585-4606-acbb-d132863cf237"
+      (reference "C68") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    )
+    (path "/01ad9bd5-0b4c-49f6-a521-39cde0d4096d/09f725a6-f0a5-4b3f-b476-0c52aba94a42"
+      (reference "C69") (unit 1) (value "100nF") (footprint "Capacitor_SMD:C_0603_1608Metric")
+    )
+    (path "/01ad9bd5-0b4c-49f6-a521-39cde0d4096d/ce0abb2d-87f6-4a27-837f-a757a575a99c"
+      (reference "C70") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
+    )
+    (path "/01ad9bd5-0b4c-49f6-a521-39cde0d4096d/8b3e941c-afb7-40ac-a922-ae012300e3b0"
+      (reference "C71") (unit 1) (value "10uF") (footprint "Capacitor_SMD:C_1206_3216Metric")
+    )
     (path "/f0ee6af2-f550-4443-9b94-19a08ddfd29b/e22f3ab6-bd2e-4c98-88ab-44cb276cf5a1"
       (reference "D1") (unit 1) (value "LED") (footprint "LED_SMD:LED_0603_1608Metric")
     )
@@ -1218,6 +1230,9 @@
     (path "/5caef4ef-946f-4700-9836-5e0163c55272/e7fb3ee1-a4cb-488f-8a2c-6b3869b8c779"
       (reference "R29") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
+    (path "/f8b7bc47-1ff9-4d66-9600-a79a3cdeb4a8/1e3e5fe0-fb1e-4da1-a4a0-003017ddbe1b"
+      (reference "R30") (unit 1) (value "470") (footprint "Resistor_SMD:R_0603_1608Metric")
+    )
     (path "/da1c9906-fabf-4b2a-a86e-11e3eef70a8b/b9985e14-b465-4d3d-895d-4e54c6068cbd"
       (reference "R32") (unit 1) (value "220") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
@@ -1379,9 +1394,6 @@
     )
     (path "/f8b7bc47-1ff9-4d66-9600-a79a3cdeb4a8/4f5dbfb2-5a7a-4667-bc12-260b6a5ba6a4"
       (reference "R85") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/f8b7bc47-1ff9-4d66-9600-a79a3cdeb4a8/ac150ec3-348a-4cc4-b896-8383cd649274"
-      (reference "R86") (unit 1) (value "470") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/9b5f9338-39ac-4793-89ef-e12c9fa7173f/7c636554-9bcb-4a5e-8437-72d4de082e55"
       (reference "R87") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric")
