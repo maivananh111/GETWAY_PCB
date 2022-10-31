@@ -678,9 +678,6 @@
     (path "/01ad9bd5-0b4c-49f6-a521-39cde0d4096d/3b6c97d8-4f39-4d0c-8e97-e67b2f100669"
       (reference "#PWR0155") (unit 1) (value "+3.3V") (footprint "")
     )
-    (path "/9b5f9338-39ac-4793-89ef-e12c9fa7173f/f768b254-f449-4692-8756-80e9d4f008ed"
-      (reference "#PWR0156") (unit 1) (value "+3.3V") (footprint "")
-    )
     (path "/451f1734-6833-4285-aa9c-f7c733436c6e/bd64bcb5-e673-4cfd-8f74-ba655366b732"
       (reference "#PWR0157") (unit 1) (value "+3.3V") (footprint "")
     )
@@ -1068,6 +1065,9 @@
     (path "/f8b7bc47-1ff9-4d66-9600-a79a3cdeb4a8/cfac3e43-1fc0-442f-b1f8-45859e843c17"
       (reference "D20") (unit 1) (value "Z3V3") (footprint "Diode_SMD:D_SOD-123F")
     )
+    (path "/9b5f9338-39ac-4793-89ef-e12c9fa7173f/1ea515de-b579-4809-9e7a-3e908b64ed8d"
+      (reference "D21") (unit 1) (value "1N4007") (footprint "Diode_SMD:D_SOD-123F")
+    )
     (path "/c44d1218-3220-43aa-a427-bb8b95a13714/3a4f1de0-222d-4822-a8ba-0e0b51cd32aa"
       (reference "F1") (unit 1) (value "Fuse1") (footprint "Fuse:Fuse_2512_6332Metric")
     )
@@ -1445,9 +1445,6 @@
     )
     (path "/f8b7bc47-1ff9-4d66-9600-a79a3cdeb4a8/3d4f3c30-d335-41a6-b8a9-36d1c72082db"
       (reference "R86") (unit 1) (value "6k8") (footprint "Resistor_SMD:R_0603_1608Metric")
-    )
-    (path "/9b5f9338-39ac-4793-89ef-e12c9fa7173f/7c636554-9bcb-4a5e-8437-72d4de082e55"
-      (reference "R87") (unit 1) (value "1k") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
     (path "/451f1734-6833-4285-aa9c-f7c733436c6e/ea1a9fa7-91c9-49bd-952e-8d864e40725a"
       (reference "R88") (unit 1) (value "10k") (footprint "Resistor_SMD:R_0603_1608Metric")
